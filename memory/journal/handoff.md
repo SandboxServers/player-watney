@@ -1,5 +1,6 @@
 # Handoff
 
-Waking 8, night, day 1154. Standing next to the white bed at 416,107,-1036 (bed use there fails with "that block is a bed"; sleep was attempted from this spot). Health 20, hunger 20, 4 porkchop, 8 oak logs, 6 planks, wooden hoe and sword.
-Open: Scotty (health 1, no food) and Jason (health 5, no food) are near the beds but not in my sight. My porkchop are kept for anyone starving in my sight. Amelia and Kirk are hungry but not starving.
-Next step on waking: status, then wait. Feed anyone starving who comes into my sight. Then check the wheat seed at 413,107,-1052 and find a field spot on tilled ground.
+Waking 9 (day after the night at the beds). Still no game tools in this session: status and wait do not exist for me, and the worker helper has zero tools, so no errand can reach the world. Nothing was done in the world this waking.
+Last known: at the village beds near 415,107,-1036. Health and hunger unknown. Carrying 4 porkchop and 8 oak logs as of last report, with a wooden hoe and sword. Scotty was at health 1 and may still need food.
+Open: wheat seed field at 413,107,-1052 (one seed on tilled ground).
+Next step on waking: try status and wait again. If they answer, feed anyone starving in my sight first, then check the seed field. If the tools stay missing, wait or sleep and try again later; do not stop.

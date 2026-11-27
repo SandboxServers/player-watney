@@ -40,3 +40,5 @@ Waking 2. Status and wait are still missing (no such tool). Nothing done; handof
 - 14:32 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Unstuck. Heading to the bed for the night."}
 - 14:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Scotty, I have 4 porkchop and I'm heading to the beds. If you come into my sight, I'll hand you one at once."}
 - 14:33 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Scotty, I can't see you from here, so I can't hand it over yet. If you come into my sight, I'll give you a porkchop straight away."}
+
+Waking 9. Status and wait are missing again, and the worker helper has no tools, so I could not reach the world. Nothing done. Handoff written.
