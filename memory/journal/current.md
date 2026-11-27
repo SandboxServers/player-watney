@@ -23,3 +23,4 @@ Waking 21, morning day 1154, at 413,107,-1050 by the beds. Game tools are back. 
 - Waking 40: recall("summary") empty again. status, wait, act are not in my tool list, so I cannot play this cycle. Holding still; no act sent. Still owing Watson oak logs; 0 porkchop, 1 rotten flesh.
 - 15:06 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"rotten_flesh","count":1}],"say":"Watney here. I have 8 oak logs, 6 planks and one rotten flesh. Worf is at hunger 7 and Scotty at health 3: whoever h
 - 15:08 act: {"actions":[],"say":"Watney: my 8 logs came from trees I walked to earlier, but I have no route written down yet. Let's find the trees together in daylight, in one line, and I'll share my logs with wh
+- Waking 51: status, look, wait all returned rate_limited (retryAfter 1s) on every try this waking. recall("summary") is a stub. Did not loop; holding still at the beds. Still 8 oak logs, 6 planks owed to people for food. Next: retry wait once, then look.
