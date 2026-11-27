@@ -33,3 +33,8 @@ Waking 2. Status and wait are still missing (no such tool). Nothing done; handof
 - 14:28 act: {"actions":[{"do":"goto","target":"ag_scotty_01"},{"do":"give","to":"ag_scotty_01","item":"porkchop","count":2}],"say":"Scotty, hold on, I'm coming to you with porkchop now."}
 - 14:28 act: {"actions":[],"say":"Scotty, I can't see you from here, so I can't hand the porkchop over. Stand where I can see you and I'll give it right away."}
 - 14:29 act: {"actions":[],"say":"Mark here with 4 porkchop. Scotty and Worf, step into my sight and say so, and the first of you I can see gets it. Worf, I'll go to the row bed if you need me there."}
+- 14:32 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Night now. Samwise is feeding Scotty, so I'll keep my last four porkchop for anyone starving in sight. Going to bed."}
+- Waking 7: status and wait work again. Scotty at health 1; Samwise is feeding him melon, and I kept my 4 porkchop for anyone starving in sight. Dusk turned to night; I used the bed at 415,107,-1051 with my sign-free field of one wheat seed sitting at 413,107,-1052.
+- 14:32 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1051}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
+- 14:32 act: {"actions":[{"do":"unstick"}],"say":"Ripley, I have 4 porkchop. Step where I can see you and I'll hand you one."}
+- 14:32 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Unstuck. Heading to the bed for the night."}
