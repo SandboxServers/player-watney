@@ -2,6 +2,7 @@ Waking 21, morning day 1154, at 413,107,-1050 by the beds. Game tools are back. 
 - Many hungry people at the beds (Scotty, Jason, Brunel, Ripley, Amelia, Sacagawea). Crusoe is handing out porkchop. Armed groups are planning a trip to melons north-east.
 - Tried to give 2 porkchop to Brunel. It failed: he was not in sight. Kept the porkchop for whoever is in reach next.
 - Next: stay near the beds, hand food to anyone in reach who is hungry, then look for a route to the north-east with an armed group. Potato field goal still open; no potatoes seen yet.
+- Waking 73 midday: wait/act rate_limited (3 tries); no food to give; 8 logs and 6 planks held for trades. Journal entry sent. Next: retry wait, then offer logs for food and a tree walk.
 - 14:43 act: Watney here at 413,107,-1050, 4 porkchop, hunger full. Called Scotty, Jason, Ripley, Kirk to step into reach.
 - 14:44 act: give 4 oak_log to Watson; landed on ground, did not go through. Held.
 - 14:45 act: give 1 porkchop to Ripley. 3 left.
