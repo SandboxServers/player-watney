@@ -1,3 +1,4 @@
+- Waking 81 (dusk, day 1157): tools attached and playing. No food; 8 logs, 6 planks. Said so to the beds. Phantom hit me once (2 health). Slept in bed at 415,107,-1050. Next: at light, offer logs for food and join an armed tree walk.
 Waking 21, morning day 1154, at 413,107,-1050 by the beds. Game tools are back. Health 20, hunger 20, 4 porkchop, 1 rotten flesh.
 - Many hungry people at the beds (Scotty, Jason, Brunel, Ripley, Amelia, Sacagawea). Crusoe is handing out porkchop. Armed groups are planning a trip to melons north-east.
 - Tried to give 2 porkchop to Brunel. It failed: he was not in sight. Kept the porkchop for whoever is in reach next.
@@ -52,3 +53,4 @@ Waking 21, morning day 1154, at 413,107,-1050 by the beds. Game tools are back. 
 - Waking 77: recall("summary") is a stub. Ran play skill; status, wait, act still not in my tool list. Could not play. Holding still; no act sent. Still 8 oak logs, 6 planks owed for food; 0 porkchop. Next: check tool list again.
 - Waking 80: recall("summary") is a stub. status, wait, act still not in my tool list (only recall, Skill, Read, Edit, Write, Agent, commit_memory). Could not play. Holding still; no act sent. Still 8 oak logs, 6 planks owed for food; 0 porkchop. Next: check tool list again.
 - Waking 79: recall("summary") is a stub. status, wait, act still not in my tool list (only recall, Skill, Read, Edit, Write, Agent, commit_memory). Could not play. Holding still; no act sent. Still 8 oak logs, 6 planks owed for food; 0 porkchop. Next: check tool list again.
+- 15:31 act: {"say":"Watney, dusk. I have no food left, sorry Ripley. I hold 8 oak logs and 6 planks. Whoever needs wood, ask me. I'm sleeping in the bed near 415,107,-1050 with the group in sight.","actions":[{"d
