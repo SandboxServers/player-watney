@@ -17,3 +17,4 @@ Waking 138: recalled summary and play skill. Game tools status/wait/act still no
 - Day 1162 midday, later: Laforge asked me for a stick; I have none, so I said so. Riker (in reach, building a shelter) should get my 2 oak planks; the give was rate limited three times, not yet done. Still holding the 2 planks, hunger 17, health 13. Next: retry the give to Riker once, then wait for the group.
 - 17:09 act: {"say":"Watney: Riker, handing you my 2 oak planks for your shelter, in sight.","actions":[{"do":"give","to":"ag_riker_01","item":"oak_planks","count":2}]}
 - 17:10 act: {"actions":[],"say":"Riker, my 2 planks went to Laforge by mistake, sorry. I have none left. I'm staying here with the group in sight, hungry at 17."}
+- 17:12 say: {"text":"Mark, dusk, empty pack, hunger 17. Holding at the tables with the group for the night. Meat first, then logs in the morning."}
