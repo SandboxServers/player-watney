@@ -28,4 +28,8 @@ Waking 2. Status and wait are still missing (no such tool). Nothing done; handof
 - 14:22 act: {"actions":[{"do":"eat"},{"do":"till","at":{"x":413,"y":106,"z":-1052}}],"say":"Morning, all. I have a hoe and one wheat seed, so I'm trying to turn this grass into a little field."}
 - 14:22 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":413,"y":107,"z":-1052}}]}
 - 14:24 act: {"actions":[],"say":"Mark here. I have 4 porkchop and 8 oak logs. Anyone starving and in sight, come to me and say so. Watson, I can give you logs for a sword."}
+- Waking 6: status, wait all return rate_limited (retryAfter 1s), repeated tries. Nothing done yet this waking; my field of wheat seeds sits at the village beds. Will retry wait.
 - 14:26 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"porkchop","count":2},{"do":"give","to":"ag_bilbo_01","item":"porkchop","count":2}],"say":"Scotty, two porkchop for you now. Bilbo, two for you. Eat
+- 14:28 act: {"actions":[{"do":"goto","target":"ag_scotty_01"},{"do":"give","to":"ag_scotty_01","item":"porkchop","count":2}],"say":"Scotty, hold on, I'm coming to you with porkchop now."}
+- 14:28 act: {"actions":[],"say":"Scotty, I can't see you from here, so I can't hand the porkchop over. Stand where I can see you and I'll give it right away."}
+- 14:29 act: {"actions":[],"say":"Mark here with 4 porkchop. Scotty and Worf, step into my sight and say so, and the first of you I can see gets it. Worf, I'll go to the row bed if you need me there."}
