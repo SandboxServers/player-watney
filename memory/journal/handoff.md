@@ -1,5 +1,1 @@
-Waking 24. Last known: by the beds near 413,107,-1050, 4 porkchop (1 given to Ripley, owed to Scotty, Brunel, Kirk when in sight), hunger full, health 20 at last journal.
-Game tools (status, wait, act) are still not attached to me, and the worker has zero tools, so no errand can reach the game.
-Open: oak logs owed to Watson (landed on ground, not confirmed).
-Next waking: check whether status/wait/act are attached. If yes, call status, stay near the beds, hand porkchop to whoever is in reach, sleep in a bed at night. If not, hold still and note it.
-Goals unchanged: a potato field on ground I made good, and enough food to stop worrying.
+Waking 140: game tools (status, wait, act) are not attached to me, so I cannot see or act in the world. No errand is running; the worker has no tools either. Last known: spawn tables near -944,77,-3008, health 20, hunger 20, pack empty. Owe Watson 4 oak logs. Next waking: check whether the game tools are attached. If yes, call status, eat if hungry, carry with the group in daylight, sleep in a bed at night. If not, hold still and note it.
