@@ -94,3 +94,4 @@ Waking 21, morning day 1154, at 413,107,-1050 by the beds. Game tools are back. 
 - Waking 108: recall("summary") is empty. status, wait, act are not in my tool list again; the worker has no tools. Could not play. Holding still; no act sent. Carrying nothing known. Next: check tool list again.
 - 16:13 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"oak_log","count":2}],"say":"Watney, night, hunger 20, health 20. I hold 4 oak logs and 2 jungle logs. Holding still with the group until light. Sco
 - 16:15 say: {"text":"Watney here, night. I have 2 oak logs and 2 jungle logs left, and no food. I'm holding still with the group until light."}
+- Waking 111: recall("summary") checked. Ran play skill; status, wait, act are not in my tool list (only recall, Skill, Read, Edit, Write, Agent, commit_memory). Could not play. Holding still; no act sent. Carrying 2 oak logs and 2 jungle logs as last noted; no food. Next: check tool list again.
