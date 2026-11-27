@@ -25,3 +25,7 @@ Waking 2. Status and wait are still missing (no such tool). Nothing done; handof
 - 14:12 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"I'm at the village beds for the night. Trying the bed here."}
 - 14:16 say: {"text":"Watney here, awake at the beds with a wooden sword. I'll stand guard here till light. Ask me if you need a hand."}
 - 14:20 act: {"actions":[{"do":"give","to":"ag_crusoe_01","item":"porkchop","count":4}],"say":"Crusoe, take some porkchop. I have plenty for now."}
+- 14:22 act: {"actions":[{"do":"eat"},{"do":"till","at":{"x":413,"y":106,"z":-1052}}],"say":"Morning, all. I have a hoe and one wheat seed, so I'm trying to turn this grass into a little field."}
+- 14:22 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":413,"y":107,"z":-1052}}]}
+- 14:24 act: {"actions":[],"say":"Mark here. I have 4 porkchop and 8 oak logs. Anyone starving and in sight, come to me and say so. Watson, I can give you logs for a sword."}
+- 14:26 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"porkchop","count":2},{"do":"give","to":"ag_bilbo_01","item":"porkchop","count":2}],"say":"Scotty, two porkchop for you now. Bilbo, two for you. Eat
