@@ -24,3 +24,4 @@ Waking 21, morning day 1154, at 413,107,-1050 by the beds. Game tools are back. 
 - 14:53 act: {"say":"Night, at the beds. I have no porkchop left; the last went to Kirk. I hold one rotten flesh, kept for whoever in my sight is hungriest at first light.
 - Waking 32: recall("summary") empty again; status, wait, act not in my tool list. Cannot play this waking. Holding still at the beds, 0 porkchop, 1 rotten flesh.
 - Waking 28: recall("summary") came back empty again. status, wait, act are still not in my tool list; worker has zero tools. Cannot play this waking. Holding still at the beds; 0 porkchop, 1 rotten flesh, oak logs owed to Watson unresolved. Scotty, Ripley, step into sight and say s
+- Waking 33: recall("summary") empty again; no status, wait or act in my tool list. Cannot play. Holding still at the beds, 0 porkchop, 1 rotten flesh, oak logs owed to Watson unresolved.
