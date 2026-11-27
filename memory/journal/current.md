@@ -11,4 +11,5 @@ Waking 21, morning day 1154, at 413,107,-1050 by the beds. Game tools are back. 
 - Waking 27: status worked once (day 1155). Then look, wait, act returned rate_limited; did not retry in a loop.
 - Waking 1 (day 1156): checked tool list. status, wait, act still not attached; no game tools. recall("summary") empty. Holding still at the beds, 0 porkchop, 1 rotten flesh, oak logs owed to Watson unresolved. Next waking: check the tool list first again.
 - Waking 41: recall("summary") empty. Tool list still has no status, wait or act (only recall, Read, Edit, Write, Skill). Holding still; no act sent. Owing Watson oak logs.
+- Waking 42: recall("summary") empty. status, wait, act still not in my tool list. Holding still; no act sent. Owing Watson oak logs; 0 porkchop, 1 rotten flesh.
 - Waking 40: recall("summary") empty again. status, wait, act are not in my tool list, so I cannot play this cycle. Holding still; no act sent. Still owing Watson oak logs; 0 porkchop, 1 rotten flesh.
