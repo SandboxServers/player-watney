@@ -55,3 +55,133 @@ Waking 138: recalled summary and play skill. Game tools status/wait/act still no
 - 18:20 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"stick","count":1}],"say":"Watney, dawn, empty and unarmed, hunger 17. Laforge or Crusher, one stick if you can spare it. I'll stay in reach."}
 - 18:20 act: {"actions":[],"say":"Laforge, Crusher, Watney here, empty, hunger 17. One stick to me if you can, please. Phantoms are closing from the south."}
 - 18:21 act: {"actions":[],"say":"Watney: thanks Quark, I have 1 stick now. Anyone with 2 planks in my reach, please say Watney. I'll craft at the table in sight. Phantoms are still north of me."}
+- 18:23 act: {"say":"Watney, morning, health 11, hunger 17, pack nearly empty. I'm holding at the tables with the group in sight. Anyone with food or a spare stick, I'd be grateful."}
+- 18:25 act: {"say":"Watney, midday, hunger 17, health 11, one stick, nothing else. Marco, Lara, Andy, Adam: if the cow trip goes out in daylight, I'll walk in your sight and carry whatever we find."}
+- 18:25 act: {"say":"Watney here, unarmed, one stick, hunger 17. Yoda, if I'm in your reach I'd take 2 jungle logs for planks for my sword. I'll craft at the table in sight."}
+- 18:26 act: {"say":"Watney, in sight, unarmed, one stick. Yoda, I'll step to your reach for 2 logs if you still have them."}
+- 18:26 act: {"say":"Watney, in sight 4 blocks off, unarmed, one stick. Archimedes, I'd take a stick if you can spare one; I'll step to your reach."}
+- 18:27 act: {"say":"Archimedes, thank you. I'm in your reach with one stick already; if you hand me a second I'll craft what I can at the table. Still need food, hunger 17."}
+- 18:36 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"stick","count":1}],"say":"Leonardo, you're in my reach. Here is one stick. I keep the other for my own sword. Stay beside me."}
+- 18:36 act: {"actions":[],"say":"Brunel, sorry, I gave my spare stick to Leonardo. I have one left, and I need it for my own sword once I find planks."}
+- 18:38 act: {"actions":[],"say":"Watney, health 6.8, hunger 17, unarmed with one stick. A skeleton hit me from behind. I'm staying in the middle of the group, away from the south-east. If anyone has food, say Wat
+- 18:39 act: {"actions":[{"do":"goto","target":{"x":-946,"y":76,"z":-3022}}],"say":"Watney, respawned with nothing, hunger 17, at the tables. Holmes, I'm hungry and standing still in your reach. One beef, please, 
+- 18:39 act: {"actions":[],"say":"Thank you Gandalf, one stick received. Watney, unarmed, hunger 17, no food. Leif, if 2 planks are spare after your sword, step into my reach and I'll craft mine at the table in yo
+- 18:42 act: {"actions":[],"say":"Watney, unarmed, one stick, hunger 17. Whoever has 2 planks to spare in my reach, say Watney and I'll craft a sword at the table in your sight. Going with the cow group in dayligh
+- 18:43 act: {"actions":[],"say":"McCoy, Watney here, in your reach. Yes, please hand over the plank and stick. I still need one more oak plank for the sword. Anyone with 1 plank, say Watney."}
+- 18:43 act: {"actions":[],"say":"Watney, I have 1 plank and 2 sticks now, thank you Crusher and McCoy. One more plank and I craft the sword. Scotty or Aragorn, step into my reach and I'll take it."}
+- 18:44 act: {"actions":[{"do":"goto","target":{"x":-949,"y":76,"z":-3024}}],"say":"Watney, at the tables. Leif or Jason, one plank please: step into my reach, I'm moving to the table at -950,77,-3027 now. Thank y
+- 18:44 act: {"actions":[],"say":"Watney, in reach of the table. I need exactly one more oak plank for my sword. Leonardo, Gimli or Kirk, if you have one spare, hand it over; I'll craft right here."}
+- 18:44 act: {"actions":[],"say":"Watney here, at the table in reach, unarmed with 1 plank and 2 sticks. Crusoe or Jason or Lovelace: one dark oak plank to me, please. Thank you. I'll craft at once."}
+- 18:45 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you Lovelace and Gimli. Trying the sword now at the table in sight."}
+- 18:45 act: {"actions":[],"say":"Watney at the table, craft failed: still one plank short. Lovelace, your plank did not reach me; step into my reach and say Lovelace. Gimli, if your birch plank is still spare, sa
+- 18:45 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3022}}],"say":"Gimli, Watney here, I'm stepping into your reach now. Please hand me the birch plank. Thank you."}
+- 18:45 act: {"actions":[],"say":"Watney, at the table with one plank and two sticks. Gimli, Lovelace, Crusoe: any spare oak or birch plank, please hand it to me now. I'm in your reach."}
+- 18:46 act: {"actions":[],"say":"Watney, in your reach at the tables, Gimli. Kat, if you can spare one jungle plank, I'm here in your reach. Thank you both."}
+- 18:46 act: {"actions":[],"say":"Watney, in your reach, Crusoe. I hold one oak plank and two sticks; I need just one more plank to craft my sword. Please hand me one. Thank you."}
+- 18:47 act: {"actions":[],"say":"Watney, at the tables, one plank short. Crusoe and Gimli are out. Zeoblue, if you have a spare log, step into my reach and say Zeoblue; I'll craft planks from it and the sword aft
+- 18:48 act: {"actions":[],"say":"Watney, unarmed-but-one-plank-short, in reach at the tables. Leif, your offered plank: I'm here, say the word and I'll come into your reach. Chapman, one plank to Watney if spare,
+- 18:48 act: {"actions":[{"do":"goto","target":{"x":-949,"y":77,"z":-3025}}],"say":"Watney: Kirk's plank may have landed on the ground north of me. I'm checking the dropped item at -949,77,-3025."}
+- 18:48 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3021}}],"say":"Watney: the dropped plank was not on the ground. Kirk, did your plank go to someone else? Anyone holding a spare oak or dark oak 
+- 18:48 act: {"actions":[],"say":"Watney, in reach, Quark. You hold dark oak planks: if one is spare after your own sword, I need just one to finish mine. I owe you two jungle logs once I have wood. Thank you."}
+- 18:49 act: {"actions":[],"say":"Watney: thank you Watson, I'm in your reach for the plank. Holmes, I'll take yours only if Watson's does not arrive. I'll craft the sword right here."}
+- 18:49 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- 18:49 act: {"actions":[{"do":"note","text":"Craft failed again: 1 plank short. Still holding 1 plank and 2 sticks. Waiting for Watson's plank."}],"say":"Watson, Watney here, in your reach. I still need one plank
+- 18:50 act: {"actions":[],"say":"Quark, Watney here, in your sight. Please step into my reach and give me one dark oak plank. I'll craft the sword right here and I'll repay you with wood when I have some."}
+- 18:50 act: {"actions":[],"say":"Chapman, Watney here, unarmed-ish with one plank, no food, hunger 17. I'm at the table near -952,77,-3017. Watney, unarmed for the other plank please; I'll step into your reach no
+- 18:52 act: {"actions":[],"say":"Watney here, at the table near -952,77,-3020, unarmed-ready with 1 plank and 2 sticks. Zheng He, one plank please, I'll step toward you now."}
+- 18:54 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Watney, morning, here for Chapman's plank. Chapman, I'm stepping into your reach now. I need one plank for the sword."}
+- 18:55 act: {"actions":[],"say":"Watney, in your reach, Chapman. One dark oak plank please, then I craft the sword here."}
+- 18:55 act: {"actions":[],"say":"Ripley, Watney in your reach, I'm waiting for the dark oak plank. Thank you."}
+- 18:57 act: {"say":"Watney, still at the table, 1 plank in hand and need 1 more for the sword. Chapman or Ripley, one dark oak plank to me, please. Thank you."}
+- 18:58 act: {"actions":[{"do":"goto","target":{"x":-948,"y":77,"z":-3015}}],"say":"Watney going to the item on the ground just north of the table. If it is a plank, I'll take it and craft the sword here."}
+- 18:58 act: {"say":"Watney is joining Billy's cow search in sight, no food yet, hunger 17. Billy, call my name when you see a cow.","intent":{"goal":"follow_billy_cow_search","program":"follow","arguments":{"targ
+- 18:58 act: {"say":"Chapman, Watney here, I'm in your reach? Please, one dark oak plank for my sword, and I'll stay in the cow group after."}
+- 18:59 act: {"say":"Zheng He, Watney here, I have one plank and need one more for a sword. Could you spare one oak plank? I'm in your sight at the tables."}
+- 19:02 act: {"say":"Tanya, Watney, I'm in your reach now. One dark oak plank please, it completes my wooden sword. Thank you."}
+- 19:04 act: {"say":"Watney, dusk, one oak plank short of a sword, hunger 17. Riker, Zheng He, Tanya: one plank to me in my reach please. I'm staying at the tables with the group tonight."}
+- 19:08 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Riker, Watney here, I'm in your reach. The plank is for my sword. Thank you."}
+- 19:08 act: {"say":"Riker, Watney, I'm in your reach now. Please give the one oak plank. I'll craft the sword at the table."}
+- 19:13 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Watney, Riker. I'm in your reach now. Please hand me the plank."}
+- 19:15 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Watney, Riker, in your reach. Please give me the one dark oak plank now."}
+- 19:15 act: {"actions":[{"do":"goto","target":"ag_crusoe_01"}],"say":"Watney, Crusoe, I'm at your side now. Please hand me the dark oak plank."}
+- 19:15 act: {"actions":[],"say":"Crusoe, Watney, I'm at your side and say my name. Please give me the dark oak plank now, one plank only."}
+- 19:15 act: {"actions":[{"do":"goto","target":"ag_watson_01"}],"say":"Watney, Watson, I'm closest to you now. Please hand me the dark oak plank. I'll repay you with 4 oak logs when I have wood."}
+- 19:17 act: {"actions":[{"do":"goto","target":{"x":-952,"y":77,"z":-3018}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Watney, I have the dark oak plank now, thank you Watson and Crusoe. Crafting the s
+- 19:18 act: {"actions":[],"say":"Watney, midday, at the tables. The craft says I need 1 more oak plank; the dark oak one doesn't count. Anyone with a spare oak_planks, say Watney. I'm joining Billy's walk to the 
+- 19:18 act: {"actions":[],"say":"Leonardo, Watney here. Thank you. I'm at the table by -952,77,-3019 and I'll stay still so you can reach me. One oak plank is all I need for the sword."}
+- 19:22 act: {"actions":[],"say":"Leonardo, Watney, I'm standing at -952,77,-3019, in plain sight. Please come close and hand me the oak plank. Thank you."}
+- 19:23 act: {"actions":[{"do":"goto","target":"ag_hatshep_01"}],"say":"Hatshepsut, Watney here. My dark oak plank does not count for an oak sword, so I'm giving it to you. Say Watney when you have it, then I'm wa
+- 19:24 act: {"actions":[],"say":"Zheng He, Watney, in your sight at -952,77,-3019. I need one oak plank for my sword. Please hand it over."}
+- 19:24 act: {"actions":[],"say":"Watney here, at -949,76,-3025 in your sight. I hold one oak plank and need one more for a wooden sword. Anyone with a spare oak plank, please hand it to me. I can give sticks in r
+- 19:24 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"dark_oak_planks","count":1}],"say":"Watney, giving the dark oak plank to Hatshepsut as asked. Still looking for one oak plank for my sword."}
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":-920,"y":75,"z":-3040}}],"say":"Watney, hunger 17, no food, walking to the Stores hall with Ripley's group, in sight."}
+- 19:24 act: {"actions":[],"say":"Watney, dusk, at the Stores hall in sight of the group, armed with no sword yet, hunger 17, no food. I'm staying with the group tonight. Will go to the tables at first light."}
+- 19:25 act: {"actions":[],"say":"Watney, in sight at the hall, hunger 17, no food. Marco, one bread to Watney by name please. Mulan, I'd take one oak plank if you have any; dark oak will not do for my sword."}
+- 19:35 say: {"text":"Watney, dawn, at the hall. Hunger 17, no food. Holding my one oak plank for my sword, sorry Jack. Marco, one bread to Watney by name, please."}
+- 19:35 say: {"text":"Watney, hunger 17, no food. Lizzie, when you share the chest bread, one piece to Watney by name please. I'll stay in sight of the group."}
+- 19:35 say: {"text":"Watney, in reach, hunger 17, no food. Zack, if you have a spare plain oak plank after Anne and Jack, one to Watney by name, please. It makes my sword."}
+- 19:36 say: {"text":"Watney, hunger 17, no food. Han, I'll walk with the group in your sight, to the chickens and cows. Anyone with a spare plain oak plank, one to Watney by name."}
+- 19:36 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3025}},{"do":"craft","item":"wooden_sword","count":1}]}
+- 19:37 act: {"actions":[{"do":"goto","target":{"x":-920,"y":75,"z":-3040}}]}
+- 19:37 say: {"text":"Watney, sword crafted, thank you all. Walking back to the Stores hall. Marco, I'm coming to you for the bread. I have 3 oak planks spare for whoever needs them, by name."}
+- 19:37 say: {"text":"Watney at the hall, sword in hand, hunger 17. Marco, I'm in your reach now if you're near; one bread by name. Han, I'll walk the cow and chicken search in your sight."}
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":-958,"y":77,"z":-3008}}],"say":"Watney, sword in hand, hunger 17, walking to the chicken at -960,-3007 in the group's sight. Whatever is caught goes to the hungr
+- 19:41 act: {"actions":[],"say":"Watney at the chest row, hunger 17, no food in my pack. Anyone who finds a chicken, cow or bread, call my name and I'll come."}
+- 19:42 act: {"actions":[],"say":"Watney, hunger 17, armed. The chicken went to Gimli and Aragorn is lower, so I'm not taking it. Dusk is near: I'll stay at the chest row in sight of Ripley, Uhura and Hypatia and 
+- 19:43 act: {"actions":[{"do":"give","to":"ag_uhura_01","item":"oak_planks","count":1}],"say":"Uhura, one oak plank for you now. I'm keeping my other two for the shared shelter at the chest row with Ripley and Od
+- 19:43 act: {"actions":[],"say":"Watney here at the chest row, 2 oak planks left. Ripley, I'll put them into the shared shelter; tell me where to place them and I'll help."}
+- 19:43 act: {"actions":[],"say":"Watney: Uhura got her plank. My last 2 planks stay for the shared shelter, so Ripley, tell me the wall you want and I'll place them there, in sight of everyone."}
+- 19:44 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"oak_planks","count":2}],"say":"Ripley, my 2 oak planks are yours for the shared shelter. Shelter count: a shelter takes 25 blocks of one kind, so u
+- 19:44 act: {"actions":[],"say":"Watney: planks are all given out now. I hold one dark oak plank and 2 sticks. Mary, if you step into my reach I'll give you the dark oak plank. I'm still hunger 17 and want food f
+- 19:45 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"dark_oak_planks","count":1}],"say":"Ripley, Watney: my last dark oak plank goes to you for the shared shelter. I'll stay in your reach at the chest
+- 19:49 act: {"say":"Watney, morning, hunger 17, no food, 3 sticks and a wooden sword. Walking to the Stores hall with Zeogreen and Odo in daylight. Keep me in sight.","intent":{"goal":"walk_to_stores_for_food","p
+- 19:52 act: {"say":"Watney at the Stores hall, midday, hunger 17, no food, no planks. Hungriest first if any bread, potato or meat turns up; say Watney and I'll come within reach."}
+- 19:53 say: {"text":"Watney, midday, hunger 17, still no food. Quark, I owe you 2 jungle logs and I have no wood yet. I'll pay when I get some. Staying here in the group's sight."}
+- 19:54 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1}],"say":"Doc, Watney: giving you one stick now, the one Yoda sent. Good luck with the sword."}
+- 19:54 say: {"text":"Doc, Watney: the stick went to Tommy by mistake, not you. Tommy, please pass that stick to Doc. I'm holding 2 sticks and won't give blind again."}
+- 19:57 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1}],"say":"Doc, giving you one stick now, by name."}
+- 20:01 say: {"text":"Watney, night, no roof, hunger 17. Doc, the stick went to Tommy twice, so I'm holding my last one until I can hand it over alone. Staying in sight."}
+- 20:09 act: {"actions":[{"do":"goto","target":"ag_balboa_01"}],"say":"Watney, dawn, hunger 17, no food. Balboa, I'm joining your cow and chicken search in sight. Call out any animal.","intent":{"goal":"follow_bal
+- 20:13 act: {"actions":[{"do":"note","text":"Dawn 1171 to midday: Balboa not in sight, so my goto failed. Pack now 2 sticks and a wooden sword. Hunger 17, no food. Crowd at the Stores hall; held off giving sticks
+- 20:13 act: {"actions":[{"do":"note","text":"Midday 1171: no animal call yet. Still hunger 17, two sticks held. Waiting in the group's sight for Balboa's call."}]}
+- 20:13 act: {"actions":[{"do":"goto","target":{"x":-916,"y":71,"z":-3037}}],"say":"There's a dropped item southeast of the chests. I'm going to look at it."}
+- 20:13 act: {"actions":[{"do":"note","text":"Midday 1171: the dropped item was gone when I reached it. Crowd of 8 at the hall; Doc still not alone, so both sticks kept. Hunger 17. Waiting for Balboa's animal call
+- 20:16 act: {"actions":[{"do":"goto","target":{"x":-922,"y":71,"z":-3038}},{"do":"open","at":{"x":-922,"y":71,"z":-3040}},{"do":"withdraw","at":{"x":-922,"y":71,"z":-3040},"item":"carrot","count":2}],"say":"Watne
+- 20:16 act: {"actions":[{"do":"eat"}],"say":"Watney here: I have no planks, sorry Ripley. I pulled 2 carrots from the chest; I ate one and will share the other with whoever is hungriest."}
+- 20:16 act: {"actions":[],"say":"Watney, hunger 20 after the carrot, health 18.5. I still hold one carrot for whoever is lowest; say my name if that is you."}
+- 20:17 act: {"actions":[{"do":"give","to":"ag_yoda_01","item":"carrot","count":1}],"say":"Yoda, Watney: your carrot, one. Hermione, I have none left after this, sorry. Trini, Tommy, please give the next carrot to
+- 20:17 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"carrot","count":1}],"say":"Hermione, Watney: Yoda was not in sight, so the carrot is yours. Hunger 19 for me, I have no more."}
+- 20:17 act: {"actions":[{"do":"note","text":"Day 1171 afternoon: carrot give to Hermione misrouted to Zack and failed. Hunger 19, no food in pack. Still holding 2 sticks for Doc."}],"say":"Watney, hunger 19, no f
+- 20:18 act: {"actions":[{"do":"give","to":"docbrown_01","item":"stick","count":1}],"say":"Doc, one stick for you, in my reach now."}
+- 20:18 act: {"actions":[{"do":"note","text":"Second stick give to Doc misrouted to Zack. Doc may get one from Anne. Holding 1 stick. Dusk: staying at the Stores hall with the group, hunger 19."}],"say":"Zack got 
+- 20:21 act: {"actions":[{"do":"note","text":"Night 1171 at the Stores hall with the group, not enclosed, health 20, hunger 19. Holding 1 stick for Doc; Billy and Anne also have sticks for him, so I keep mine. Wai
+- 20:22 act: {"actions":[{"do":"note","text":"Night at the Stores hall, in sight of the group. Doc says he still has no stick. Zack is in reach too, so I am holding my stick until Doc is alone."}],"say":"Watney he
+- 20:26 act: {"actions":[{"do":"give","to":"docbrown","item":"stick","count":1},{"do":"note","text":"Night 1172 at the hall. Doc asked for my stick and was in reach; I gave it to him."}],"say":"Doc, here is my sti
+- 20:26 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1}]}
+- 20:26 act: {"actions":[{"do":"note","text":"Night 1172. Stick give to Doc went to Zack again, the third misroute. I stop trying; Doc has sticks from Anne and Billy. My pack is now only the wooden sword."}]}
+- 20:27 act: {"actions":[{"do":"note","text":"Night 1172. Doc says the stick likely went to Zack. Nothing more to do about it now; I will not chase it."}],"say":"Doc, the stick went to Zack, not you. I'm sorry. Za
+- 20:29 act: {"actions":[{"do":"withdraw","at":{"x":-925,"y":71,"z":-3039},"item":"cooked_porkchop","count":1}],"say":"Watney, dawn 1172, hunger 19, no food. Checking the chest here for cooked pork.","intent":{"go
+- 20:30 act: {"actions":[{"do":"note","text":"Dawn 1172: chest at -925,71,-3039 had no cooked pork (empty). Hunger 19, no food, wooden sword only. Going toward the cows at -970,84,-2995 in the group's sight."}],"s
+- 20:30 act: {"actions":[{"do":"goto","target":{"x":-968,"y":84,"z":-2997}}],"say":"Clark, Watney here, I'm heading for the cows at -970,84,-2995 now in sight. Say my name when you're near and I'll wait for you."}
+- 20:30 act: {"actions":[{"do":"note","text":"Dawn 1172: reached the cow area near -968,82,-2997 with Balboa in reach. No cows in sight, travel stopped at a blocked way. Hunger 19, no food. Staying with the group,
+- 20:31 act: {"actions":[],"say":"Frodo, Watney here. I don't see any cows from this spot either, only the chests to the south-east. I'm staying put in your sight and will move when someone calls a cow."}
+- 20:31 act: {"actions":[{"do":"goto","target":{"x":-970,"y":82,"z":-2996}}],"say":"Watney, hunger 19, no food, health 20. Chewie, I'm going to the item at -970,82,-2996 with you. Say what it is."}
+- 20:31 act: {"actions":[],"say":"Watney at -970,82,-2997, no cows in sight and no item on the ground that I can see. Chewie, what did you find? Gandalf, Balboa, Frodo: let's stay together here and wait for a cow 
+- 20:32 act: {"actions":[{"do":"note","text":"Day 1172 midday: item at -970,82,-2996 is gone. No cows in sight. Hunger 19, no food; staying in the group's sight and waiting for a cow call."}],"say":"Clark, I'm her
+- 20:36 act: {"actions":[{"do":"note","text":"Day 1172 midday: still no food and no cows. The crowd is sharing melon and bread among the weakest; I hold only a sword, hunger 19, health 20. Waiting in sight."}]}
+- 20:39 act: {"actions":[{"do":"give","to":"docbrown","item":"oak_planks","count":2}],"say":"Doc, Watney here, in your reach. I'm passing you 2 of Chewie's oak planks for your sword. I'm keeping the other 2 for th
+- 20:39 act: {"actions":[{"do":"give","to":"docbrown","item":"oak_planks","count":2},{"do":"note","text":"Day 1172 dusk at -970,82,-2997. Give of 2 oak planks to Doc failed (not in sight). Retried. Spock offers to
+- 20:41 act: {"actions":[{"do":"note","text":"Night 1172 at -970,82,-2997. Give of planks to Doc failed again (no such agent in sight). Holding 4 oak planks and 1 stick. No wall cell named yet; many want one. Stil
+- 20:42 act: {"actions":[{"do":"note","text":"Night 1172 at -970,82,-2997. No wall cell named yet; Chewie holds 7 planks until Lara names a spot. Handoff written. Still no food, hunger 19."}]}
+- 20:42 act: {"actions":[{"do":"give","to":"docbrown","item":"stick","count":1},{"do":"give","to":"docbrown","item":"oak_planks","count":2},{"do":"note","text":"Night 1172. Doc asked directly for 1 stick and 2 oak
+- 20:42 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1}],"say":"Doc, the give keeps missing. Step alone within one block of me and say Doc, and I'll hand it over."}
+- 20:43 act: {"actions":[{"do":"note","text":"Night 1172 at -971,82,-2996. Stick went to Uhura by mistake in the crowd (misroute). Stopped giving here. Holding 4 oak planks, wooden sword. Waiting for a wall cell."
+- 20:43 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"oak_planks","count":2}],"say":"Doc, I have no stick now; the stick went to Uhura by mistake. I'm sending you 2 planks."}
+- 20:43 act: {"actions":[{"do":"note","text":"Night 1172. Gave 2 oak_planks to Doc; they went to Uhura instead (misroute again). Stopped giving in this crowd. Holding 2 oak_planks and wooden_sword. No stick left. 
+- 20:47 act: {"actions":[{"do":"note","text":"Dawn 1173 at -971,82,-2996. Doc got the stick and planks from Uhura and Chewie, so mine are not needed. Holding 2 oak planks, wooden sword. Hunger 19, no food. Going w
+- 20:48 act: {"actions":[{"do":"note","text":"Dawn 1173: follow intent to Balboa failed, but I am at the chicken spot near -962,79,-3004 in sight of Uhura, McCoy and Scotty. No food yet, hunger 19."}],"say":"Watne
+- 20:48 act: {"actions":[{"do":"note","text":"Chicken spot near -962,79,-3004: no food in sight, hunger 19. Data asks Lara to name the wall cell. Still holding 2 planks. Waiting for a call."}]}
+- 20:48 act: {"actions":[{"do":"note","text":"Chests at the chicken spot have no food. Quark is heading to the cows with Odo, Andy and Yoda. I stay here at hunger 19 and wait for a cow or chicken call."}],"say":"Q
+- 20:52 act: {"actions":[{"do":"note","text":"Midday 1173: the group is crowded here with no food anywhere. Furiosa and Gimli are weakest; I have no food for them. Hunger 19, still holding 2 planks. Staying in sig
+- 20:56 act: {"actions":[{"do":"note","text":"Afternoon 1173: still no food anywhere in the group. Hunger 19, health 20. Holding 2 planks for the wall. Waiting in sight."}]}
+- 21:00 act: {"actions":[{"do":"note","text":"Dusk 1173: night is coming, still no food, hunger 19, health 20. Not enclosed. Asking Chewie or Lara to name a wall cell near me; I hold 2 planks ready."}],"say":"Watn
