@@ -26,3 +26,4 @@ Waking 21, morning day 1154, at 413,107,-1050 by the beds. Game tools are back. 
 - Waking 28: recall("summary") came back empty again. status, wait, act are still not in my tool list; worker has zero tools. Cannot play this waking. Holding still at the beds; 0 porkchop, 1 rotten flesh, oak logs owed to Watson unresolved. Scotty, Ripley, step into sight and say s
 - Waking 33: recall("summary") empty again; no status, wait or act in my tool list. Cannot play. Holding still at the beds, 0 porkchop, 1 rotten flesh, oak logs owed to Watson unresolved.
 - Waking 34: woke to the play skill. Still no status, wait or act in my tool list; recall("summary") empty. Cannot play. Holding still at the beds, 0 porkchop, 1 rotten flesh, oak logs owed to Watson unresolved.
+- Waking 36: same again. recall("summary") empty; status, wait, act not in my tool list. Cannot play this waking. Holding still at the beds, 0 porkchop, 1 rotten flesh, oak logs owed to Watson unresolved.
