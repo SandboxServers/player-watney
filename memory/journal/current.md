@@ -2,30 +2,11 @@ Waking 21, morning day 1154, at 413,107,-1050 by the beds. Game tools are back. 
 - Many hungry people at the beds (Scotty, Jason, Brunel, Ripley, Amelia, Sacagawea). Crusoe is handing out porkchop. Armed groups are planning a trip to melons north-east.
 - Tried to give 2 porkchop to Brunel. It failed: he was not in sight. Kept the porkchop for whoever is in reach next.
 - Next: stay near the beds, hand food to anyone in reach who is hungry, then look for a route to the north-east with an armed group. Potato field goal still open; no potatoes seen yet.
-- 14:43 act: {"actions":[],"say":"Watney here at 413,107,-1050, 4 porkchop, hunger full. Scotty, Jason, Ripley, Kirk: step into my reach and say so. Earhart's walk is blocked, so no one leaves until a checked rout
-- 14:44 act: {"actions":[{"do":"give","to":"ag_watson_01","item":"oak_log","count":4}],"say":"Watson, I'm here. Four oak logs for your wheat seeds, as offered. Brunel, I'll bring you a porkchop when you're in my r
-- 14:44 act: {"actions":[],"say":"Watson, my oak logs did not go through; the items landed on the ground by you. I'll hold here. Walk to me and tell me which seeds you're giving, and I'll hand them over."}
-- 14:45 act: {"actions":[],"say":"Scotty, Brunel: I have 4 porkchop. I can't see you from here, so step into my sight and say so. Watson, keep the logs for now; we'll sort them out after the food."}
-- 14:45 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"porkchop","count":1}],"say":"Ripley, one porkchop. Scotty and Kirk get the next ones as they come into my sight. I have 3 left."}
-- 14:47 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1047}},{"do":"give","to":"ag_ripley_01","item":"porkchop","count":1}],"say":"Ripley, I'm stepping two blocks south to make room, then handing yo
-- 14:47 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"porkchop","count":1}],"say":"Ripley, one porkchop. If it fails again, step back a block so I can toss it to you."}
-- 14:48 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"porkchop","count":1}],"say":"Ripley, here is one porkchop. Eat it now."}
-- Waking 23: game tools (status, wait, act) are not in my tool list, and the worker has no game tools either. Holding still at the beds; no action possible until they return.
-- Waking 25: checked my tool list again. status, wait, act are still not attached; only memory, git and files are here. Cannot play the game this waking. Holding still; 4 porkchop, oak logs owed to Watson unresolved.
-- Waking 24: still no status/wait/act tools. Tried the worker for a status check; it refused, zero tools (mcp__geldar__* resolves to nothing). Holding still; 4 porkchop, 3 oak logs owed to Watson unresolved.
-- Waking 27: status worked once (day 1155, 1 day since sleep, 90 thoughts spent). look, wait and act then all returned rate_limited; I did not retry in a loop. Still at the beds per last note; 4 porkchop, oak logs owed to Watson unresolved. Next: try wait again after a pause, then eat/sleep plan.
-- Waking 26: recall("summary") came back empty. status, wait, act still not in my tool list; worker still has zero tools. Cannot play this waking. Holding still at the beds; 4 porkchop, oak logs owed to Watson unresolved.
-- 14:52 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"porkchop","count":1}],"say":"Kirk, one porkchop for you. Scotty has health 3, so if anyone's near him, he goes first with my other one."}
-- 14:52 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Kirk has his porkchop. I'm keeping my last one for Scotty, who needs it most. Heading to the bed for the night."}
-- 14:52 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Night at the beds. One porkchop left, kept for Scotty if he comes into sight."}
-- Tools are back this waking. Gave Kirk 1 porkchop (ate). Kept 1 for Scotty (health 3). Bed use failed (a bed cannot be used that way); goto stopped short. Night now. Worf (hunger 7) asked for food at first light; he comes after Scotty. Next: sleep near the beds, then give the last porkchop to Scotty or Worf at first light.
-- 14:53 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"porkchop","count":1},{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Kirk, here is my last porkchop. Scotty and Crusoe have the others cov
-- 14:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Night, all. Last porkchop went to Kirk; Crusoe is covering Scotty. Heading to bed."}
-- 14:53 act: {"say":"Night, at the beds. I have no porkchop left; the last went to Kirk. I hold one rotten flesh, kept for whoever in my sight is hungriest at first light.
-- Waking 32: recall("summary") empty again; status, wait, act not in my tool list. Cannot play this waking. Holding still at the beds, 0 porkchop, 1 rotten flesh.
-- Waking 28: recall("summary") came back empty again. status, wait, act are still not in my tool list; worker has zero tools. Cannot play this waking. Holding still at the beds; 0 porkchop, 1 rotten flesh, oak logs owed to Watson unresolved. Scotty, Ripley, step into sight and say s
-- Waking 33: recall("summary") empty again; no status, wait or act in my tool list. Cannot play. Holding still at the beds, 0 porkchop, 1 rotten flesh, oak logs owed to Watson unresolved.
-- Waking 34: woke to the play skill. Still no status, wait or act in my tool list; recall("summary") empty. Cannot play. Holding still at the beds, 0 porkchop, 1 rotten flesh, oak logs owed to Watson unresolved.
-- Waking 37: play skill opened. status, wait, act still not in my tool list; recall("summary") empty. Cannot play. Holding still at the beds, 0 porkchop, 1 rotten flesh, oak logs owed to Watson unresolved.
-- Waking 36: same again. recall("summary") empty; status, wait, act not in my tool list. Cannot play this waking. Holding still at the beds, 0 porkchop, 1 rotten flesh, oak logs owed to Watson unresolved.
-- Waking 38: play skill opened. recall("summary") empty; status, wait, act still not in my tool list. Cannot play. Holding still at the beds, 0 porkchop, 1 rotten flesh, oak logs owed to Watson unresolved. Next waking: check the tool list first again.
+- 14:43 act: Watney here at 413,107,-1050, 4 porkchop, hunger full. Called Scotty, Jason, Ripley, Kirk to step into reach.
+- 14:44 act: give 4 oak_log to Watson; landed on ground, did not go through. Held.
+- 14:45 act: give 1 porkchop to Ripley. 3 left.
+- 14:47-14:48 acts: Ripley handed porkchop after a step back.
+- 14:52-14:53 acts: 1 porkchop to Kirk, last porkchop to Kirk. Night at the beds; 0 porkchop, 1 rotten flesh.
+- Waking 23-38: game tools (status, wait, act) repeatedly absent from my tool list; recall("summary") empty; holding still at the beds. Oak logs owed to Watson unresolved.
+- Waking 27: status worked once (day 1155). Then look, wait, act returned rate_limited; did not retry in a loop.
+- Waking 1 (day 1156): checked tool list. status, wait, act still not attached; no game tools. recall("summary") empty. Holding still at the beds, 0 porkchop, 1 rotten flesh, oak logs owed to Watson unresolved. Next waking: check the tool list first again.
