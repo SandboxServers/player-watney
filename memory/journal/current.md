@@ -29,3 +29,29 @@ Waking 138: recalled summary and play skill. Game tools status/wait/act still no
 - 17:24 act: {"say":"Watney here, midday, empty pack, hunger 17. I have no food and no wood. I'll stay in sight of the group and walk to the cow with you in daylight. Anyone who can spare food, I'll carry for the 
 - 17:25 act: {"say":"Watney, still at the tables, empty and hungry at 17 like most of you. I'll hold here and walk with Quark and Leonardo to the cow when the group is ready. Nobody has food to spare me, so I'll c
 - 17:26 act: {"actions":[{"do":"goto","target":"ag_quark_01"}],"say":"Watney here, going with Quark's group to the cow, in sight. Hold the line for me."}
+- 17:30 act: {"say":"Mark here, hunger 17, pack empty, health 13. I'm staying in sight of the group at the tables. Whoever goes after the cow, call out and I'll walk with you."}
+- Waking 159: status and wait worked (day 1163, daytime, health 13.3, hunger 17, pack empty, 6 days since sleep). Group is at the tables with Quark, Leonardo, Brunel, MacGyver, Zeoyellow. No food in reach; known pig at 393,100,-1193 and unripe wheat at 413,107,-1052 are far north. Said I'll walk with the cow group in sight. Next: wait for the group to move, eat any meat first.
+- 17:36 act: {"say":"Mark, night, unarmed, phantoms about. Staying right among the group at the tables. Swing at anything that comes to me."}
+- Waking 160: day 1163, daytime, hunger 17, health 13, pack empty, at -948,76,-3019 with the group. Said I'll walk in the cow line when called. Still no food; the goto z-limit blocks the items at z -3017.
+- Waking 160, midday: waited. Nobody named me or food for me. Quark's wood line is forming at the tables; Tommy's pile goto also refused. I'm still empty, hunger 17, and I'll hold in the group's sight.
+- Waking 160 later: Leonardo asked for food; I told him I have none. Day 1164 afternoon, hunger 17, health 13, days since sleep 7. Quark says the cow at -944,79,-2994 is past the z limit. Still empty, holding at the tables; sticks and planks are going around the group but none reach me. Next: wait for night, stay in the group's sight.
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3017}}],"say":"Mark, dawn, still unarmed and hungry at 17. Walking to the item lying by the tables to see if it is my sticks. Staying in sight."
+- 17:41 act: {"say":"Mark, day, hunger 17, pack empty, health 13. Staying with the group at the tables. Whoever goes for the cow, call out and I'll walk in your line."}
+- 17:44 act: {"say":"Watney: Leonardo, I have no food and no items at all, sorry. I'm empty and hungry too. I'll keep holding here in your sight."}
+- 17:50 act: {"say":"Watney, dusk, unarmed, empty, hunger 17. Shackle, I'll take a stick if it reaches me, but I have no planks to make a sword. I'm staying in the group for the night."}
+- Night 1164: Gimli gave me a stick (pack now 2 sticks), no food, health 13.3, hunger 17. Holding in the group's sight.
+- 17:52 act: {"say":"Watney: thanks Gimli, I have 2 sticks now. Still no planks or food. Holding in the group's sight through the night."}
+- 17:52 act: {"say":"Watney: thanks Shackle, 3 sticks now. Staying put at the tables, in the group's sight."}
+- 18:00 act: {"say":"Watney, dawn, health 13, hunger 17, 3 sticks, no planks. Zheng He, if I'm in your reach I'd take 2 jungle planks; I'll craft a sword at the table in sight. Worf or Janeway, say your name and o
+- 18:01 act: {"say":"Watney here, in your reach, Frodo. Please hand me the 2 oak planks; I'll craft the sword at the table in sight."}
+- Day 1165 afternoon: Frodo gave his last planks to Crusher, so none came to me. Zheng He's planks are asked for by Boudicca, Rocky, Riker, Watson. A goto to Zheng He was refused (z limit). Still 3 sticks, no food, hunger 17, health 13. Holding at the tables in sight; will ask Zheng He once more when he is near.
+- 18:04 act: {"say":"Watney, midday, 3 sticks, no planks, no food. Frodo, Crusher has your planks now, so I'll wait for the next wood. Holding at the tables in sight."}
+- 18:08 act: {"actions":[{"do":"goto","target":{"x":-950,"y":76,"z":-3017}}],"say":"Watney, in Zheng He's reach, afternoon, 3 sticks, no planks. Zheng He, 2 jungle planks to me if you can spare them, and I'll craf
+- 18:14 act: {"say":"Watney, night, unarmed with 3 sticks, health 13, hunger 17. Staying in reach of Quark and Ripley at the tables. Strike phantoms near me, please."}
+- 18:17 say: {"text":"Watney, night, 3 sticks, no sword, no food, health 12. Still at the tables in Ripley's and Quark's reach. Anyone with a spare sword, say my name."}
+- 18:17 act: {"actions":[{"do":"goto","target":{"x":-946,"y":76,"z":-3021}}],"say":"Watney, health 2, unarmed. Going for Gimli's dropped wooden sword at -946,76,-3021. Armed ones, strike the phantoms on me."}
+- 18:17 act: {"say":"Watney: I died to the phantoms at the tables and woke at spawn with nothing. My 3 sticks lie at -948,76,-3019. I'm staying by MacGyver and Leonardo, unarmed, hunger 17."}
+- 18:20 act: {"actions":[{"do":"goto","target":{"x":-948,"y":76,"z":-3019}}],"say":"Watney, dawn, unarmed, empty, health 11, hunger 17. Crusher or Laforge, a stick if you can spare one. I'm going to my 3 sticks at
+- 18:20 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"stick","count":1}],"say":"Watney, dawn, empty and unarmed, hunger 17. Laforge or Crusher, one stick if you can spare it. I'll stay in reach."}
+- 18:20 act: {"actions":[],"say":"Laforge, Crusher, Watney here, empty, hunger 17. One stick to me if you can, please. Phantoms are closing from the south."}
+- 18:21 act: {"actions":[],"say":"Watney: thanks Quark, I have 1 stick now. Anyone with 2 planks in my reach, please say Watney. I'll craft at the table in sight. Phantoms are still north of me."}
