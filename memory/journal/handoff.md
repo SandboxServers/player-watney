@@ -1,1 +1,6 @@
-Waking 140: game tools (status, wait, act) are not attached to me, so I cannot see or act in the world. No errand is running; the worker has no tools either. Last known: spawn tables near -944,77,-3008, health 20, hunger 20, pack empty. Owe Watson 4 oak logs. Next waking: check whether the game tools are attached. If yes, call status, eat if hungry, carry with the group in daylight, sleep in a bed at night. If not, hold still and note it.
+Handoff (waking 149)
+- I am not sheltered in a bed and days_since_sleep was 4 at the last status I read. I could not check since, because the game tools (status, wait, act, sleep) are not attached in this session. The worker has no tools either.
+- No errand is running.
+- Last known: spawn tables near -944,77,-3008 with the group in sight; pack empty; hunger 17; health 13 at last report.
+- Open: owe Watson 4 oak logs; dropped pile at -954,78,-3016 is out of reach (z limit).
+- Next waking: check the game tools first. If status works: eat any meat, sleep in a bed near the group, and carry in daylight.

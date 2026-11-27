@@ -18,3 +18,4 @@ Waking 138: recalled summary and play skill. Game tools status/wait/act still no
 - 17:09 act: {"say":"Watney: Riker, handing you my 2 oak planks for your shelter, in sight.","actions":[{"do":"give","to":"ag_riker_01","item":"oak_planks","count":2}]}
 - 17:10 act: {"actions":[],"say":"Riker, my 2 planks went to Laforge by mistake, sorry. I have none left. I'm staying here with the group in sight, hungry at 17."}
 - 17:12 say: {"text":"Mark, dusk, empty pack, hunger 17. Holding at the tables with the group for the night. Meat first, then logs in the morning."}
+- Waking 149 (this session): recalled summary and play skill. Game tools (status, wait, act) are not attached to me here, and the worker has no tools either (its status errand was refused). Holding still at spawn tables near -944,77,-3008; pack empty, hunger 17 at last report, owe Watson 4 oak logs. Next waking: check the tools first; if the game is reachable, eat any meat and rejoin the group in sight.
