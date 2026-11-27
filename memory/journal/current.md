@@ -14,4 +14,5 @@ Waking 21, morning day 1154, at 413,107,-1050 by the beds. Game tools are back. 
 - Waking 42: recall("summary") empty. status, wait, act still not in my tool list. Holding still; no act sent. Owing Watson oak logs; 0 porkchop, 1 rotten flesh.
 - Waking 43: recall("summary") has only a stub. Game tools (status, wait, act) still not in my tool list, so I cannot play. Holding still; no act sent. Still owing Watson oak logs; 0 porkchop, 1 rotten flesh.
 - Waking 44: game tools attached now, but status and wait both return rate_limited (retry after 1s). Did not loop on them; holding still. Oak logs still owed to Watson; 0 porkchop, 1 rotten flesh.
+- Waking 45: recall("summary") is a stub again. status, wait, act are not in my tool list; only recall, Skill, Read, Edit, Write. Holding still; no act sent. Still owing Watson oak logs; 0 porkchop, 1 rotten flesh.
 - Waking 40: recall("summary") empty again. status, wait, act are not in my tool list, so I cannot play this cycle. Holding still; no act sent. Still owing Watson oak logs; 0 porkchop, 1 rotten flesh.
