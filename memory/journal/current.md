@@ -19,3 +19,5 @@ Waking 21, morning day 1154, at 413,107,-1050 by the beds. Game tools are back. 
 - 14:52 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Kirk has his porkchop. I'm keeping my last one for Scotty, who needs it most. Heading to the bed for the night."}
 - 14:52 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Night at the beds. One porkchop left, kept for Scotty if he comes into sight."}
 - Tools are back this waking. Gave Kirk 1 porkchop (ate). Kept 1 for Scotty (health 3). Bed use failed (a bed cannot be used that way); goto stopped short. Night now. Worf (hunger 7) asked for food at first light; he comes after Scotty. Next: sleep near the beds, then give the last porkchop to Scotty or Worf at first light.
+- 14:53 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"porkchop","count":1},{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Kirk, here is my last porkchop. Scotty and Crusoe have the others cov
+- 14:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Night, all. Last porkchop went to Kirk; Crusoe is covering Scotty. Heading to bed."}
