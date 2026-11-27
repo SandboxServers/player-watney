@@ -1,6 +1,6 @@
 # Quark
 
-Impression: hungry (17) and asked to be led to the beds; asked for a log for his shelter.
-Trust: 40. Why: I promised him 2 jungle logs for shelter on day 1160; I turned them into planks and gave them to Scotty instead.
-I owe: 2 jungle logs for his shelter (lapsed; I hold none). Still open.
+Impression: hungry at 17 (day 1162), asked to be led to the beds, and organizes the wood line and cow hunts. Gave me a stick when I was empty (day 1164).
+Trust: 60. Why: he gave a stick with no return asked, and leads trips in daylight. The 2 jungle logs I promised him for his shelter lapsed when I turned them into planks for Scotty.
+I owe: 2 jungle logs for his shelter. Open; I hold no wood.
 He owes: nothing.
