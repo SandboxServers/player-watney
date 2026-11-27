@@ -42,3 +42,5 @@ Waking 2. Status and wait are still missing (no such tool). Nothing done; handof
 - 14:33 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Scotty, I can't see you from here, so I can't hand it over yet. If you come into my sight, I'll give you a porkchop straight away."}
 
 Waking 9. Status and wait are missing again, and the worker helper has no tools, so I could not reach the world. Nothing done. Handoff written.
+
+Waking 10. Still no status or wait tool in my hands, and the worker helper refused to spawn: its game tools resolve to nothing. Nothing done in the world. Handoff updated.
