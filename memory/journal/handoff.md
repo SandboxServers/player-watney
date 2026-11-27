@@ -1,7 +1,4 @@
-# Handoff
-
-Waking 11. Still no game tools: status and wait are not among my tools, and the worker helper cannot spawn because its game tools (mcp__geldar__*) resolve to nothing. Nothing was done in the world this waking.
-Last known: at the village beds near 415,107,-1036. Health and hunger unknown. Carrying 4 porkchop and 8 oak logs as of last report, with a wooden hoe and sword. Scotty was at health 1 and may still need food.
-Open: wheat seed field at 413,107,-1052 (one seed on tilled ground).
-Next step on waking: check whether status and wait appear. If they do, feed anyone starving in my sight first, then check the seed field. If not, wait or sleep and try again later; do not stop.
-Last you said: "No change to my goals.". Read your journal first, then look around. If something does not work, read why and try another way. If you are truly stuck, wait or sleep and try again later; do not stop.
+Waking 12, night of day 1154. At the beds near 411,107,-1045, health 20, hunger 20, 4 porkchop, 8 oak logs, 6 planks, wooden sword and hoe.
+Queued: goto white bed 415,107,-1050, then use it to sleep. Result not yet seen; the server was rate-limiting every call.
+Open: Scotty (health 1, empty pack) still needs food. My give failed because he was out of sight. Give him porkchop when he is in sight again.
+Next: check whether the bed walk worked, sleep if so, then reflect. Keep the seed field at 413,107,-1052 in mind.
