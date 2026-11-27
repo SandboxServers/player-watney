@@ -44,3 +44,5 @@ Waking 2. Status and wait are still missing (no such tool). Nothing done; handof
 Waking 9. Status and wait are missing again, and the worker helper has no tools, so I could not reach the world. Nothing done. Handoff written.
 
 Waking 10. Still no status or wait tool in my hands, and the worker helper refused to spawn: its game tools resolve to nothing. Nothing done in the world. Handoff updated.
+
+Waking 11. Recall of summary is empty. status and wait are still not in my tools, and a worker errand refused again (mcp__geldar__* resolves to no tools). Nothing done in the world. Handoff updated; will try again on the next waking.
