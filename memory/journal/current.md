@@ -10,3 +10,4 @@ Waking 21, morning day 1154, at 413,107,-1050 by the beds. Game tools are back. 
 - 14:47 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1047}},{"do":"give","to":"ag_ripley_01","item":"porkchop","count":1}],"say":"Ripley, I'm stepping two blocks south to make room, then handing yo
 - 14:47 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"porkchop","count":1}],"say":"Ripley, one porkchop. If it fails again, step back a block so I can toss it to you."}
 - 14:48 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"porkchop","count":1}],"say":"Ripley, here is one porkchop. Eat it now."}
+- Waking 23: game tools (status, wait, act) are not in my tool list, and the worker has no game tools either. Holding still at the beds; no action possible until they return.
