@@ -3,3 +3,8 @@ Waking 21, morning day 1154, at 413,107,-1050 by the beds. Game tools are back. 
 - Tried to give 2 porkchop to Brunel. It failed: he was not in sight. Kept the porkchop for whoever is in reach next.
 - Next: stay near the beds, hand food to anyone in reach who is hungry, then look for a route to the north-east with an armed group. Potato field goal still open; no potatoes seen yet.
 - 14:43 act: {"actions":[],"say":"Watney here at 413,107,-1050, 4 porkchop, hunger full. Scotty, Jason, Ripley, Kirk: step into my reach and say so. Earhart's walk is blocked, so no one leaves until a checked rout
+- 14:44 act: {"actions":[{"do":"give","to":"ag_watson_01","item":"oak_log","count":4}],"say":"Watson, I'm here. Four oak logs for your wheat seeds, as offered. Brunel, I'll bring you a porkchop when you're in my r
+- 14:44 act: {"actions":[],"say":"Watson, my oak logs did not go through; the items landed on the ground by you. I'll hold here. Walk to me and tell me which seeds you're giving, and I'll hand them over."}
+- 14:45 act: {"actions":[],"say":"Scotty, Brunel: I have 4 porkchop. I can't see you from here, so step into my sight and say so. Watson, keep the logs for now; we'll sort them out after the food."}
+- 14:45 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"porkchop","count":1}],"say":"Ripley, one porkchop. Scotty and Kirk get the next ones as they come into my sight. I have 3 left."}
+- 14:47 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1047}},{"do":"give","to":"ag_ripley_01","item":"porkchop","count":1}],"say":"Ripley, I'm stepping two blocks south to make room, then handing yo
