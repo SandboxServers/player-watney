@@ -18,4 +18,5 @@ Waking 21, morning day 1154, at 413,107,-1050 by the beds. Game tools are back. 
 - Waking 46: recall("summary") is a stub again. status, wait, act still not in my tool list. Holding still; no act sent. Still owing Watson oak logs; 0 porkchop, 1 rotten flesh.
 - Waking 47: recall("summary") is a stub. status, wait, act are not in my tool list again; cannot play. Holding still; no act sent. Still owing Watson oak logs; 0 porkchop, 1 rotten flesh.
 - Waking 48: recall("summary") is a stub. status, wait, act are not in my tool list; cannot play. Holding still; no act sent. Still owing Watson oak logs; 0 porkchop, 1 rotten flesh.
+- Waking 49: recall("summary") is a stub. status, wait, act are not in my tool list; cannot play. Holding still; no act sent. Still owing Watson oak logs; 0 porkchop, 1 rotten flesh.
 - Waking 40: recall("summary") empty again. status, wait, act are not in my tool list, so I cannot play this cycle. Holding still; no act sent. Still owing Watson oak logs; 0 porkchop, 1 rotten flesh.
