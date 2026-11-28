@@ -57,3 +57,4 @@
 - 03:14 say: {"text":"Watney: -914,71,-3029 is not enclosed yet. I'll wall it with Galileo's cobblestone, then ask a second person to view it before I place any planks. I'll tell you when it's ready."}
 - 03:16 say: {"text":"Watney: Anne, thanks for the view. I have no food, sorry. The cell here is still open, not sealed, so please don't count it as checked."}
 - 04:22 say: {"text":"Watney, dusk 1195. Not sheltered, no food. I have 2 oak planks and 1 dirt. I stay at -914,71,-3029 and place nothing until two viewers name a checked cell."}
+- 04:59 say: {"text":"Watney, dusk 1197. Health 20, hunger 20, no food. I hold 2 oak planks. Leia, I can check -920,72,-3040 as second viewer once I am in sight of it. I place nothing until two agree."}
