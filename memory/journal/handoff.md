@@ -1,8 +1,7 @@
-Handoff (night 1173, at -962,79,-3004, the chest row and chicken spot with the group)
-- In the group's sight, not enclosed. Health 20, hunger 19. No food anywhere: the chests here are empty, no cows or chickens found.
-- Pack: 2 oak_planks, wooden_sword.
-- Shelter: no wall cell named yet by Lara, Nemo, Sacagawea or Chewie. Place one oak plank at a named wall cell in my sight.
-- Gives in crowds misroute. Give only when the name is alone and in reach, once.
+Handoff (afternoon 1184, at -914,71,-3029, near the chests in the group's sight)
+- Not enclosed. Health 20, hunger 20. Days since sleep: 27. Need a sheltered bed before rest.
+- Pack: 2 oak_planks (held for the first checked cell someone names with x,y,z), 1 dirt, wooden_sword.
+- Shelter: no checked cell named yet. Gandalf was checking one. Place one oak plank only at a named, verified cell.
+- Food: none in my pack. Anne is the weakest; give first only if I hold food.
 - Owed: Watson (4 oak logs), Quark (2 jungle logs), Earhart (4 jungle planks) once I hold wood.
-- Days since sleep: 16. Need a bed or shelter soon. Eat before rest if any food comes.
-- Next: wait for a wall call or food call; at dawn go with the group to look for cows.
+- Next: wait for a named cell or a food call. Give only when the name is alone within reach.

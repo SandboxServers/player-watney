@@ -1,1 +1,51 @@
 # Journal
+- 21:04 say: {"text":"Watney here, night, health 20, hunger 19, no food. I hold 2 oak planks for the shared wall. Name an open cell near -962,79,-3004 and I'll place one in your sight."}
+- 21:07 say: {"text":"Watney, morning. I'm going with Uhura to the stores hall for food and tools. I hold 2 oak planks for the wall; name a cell when you're ready."}
+- 21:07 act: {"intent":{"goal":"reach_stores_hall","program":"travel","arguments":{"target":{"x":-921,"y":75,"z":-3040}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],
+- 21:07 act: {"actions":[{"do":"open","at":{"x":-923,"y":71,"z":-3039}}]}
+- 21:07 act: {"actions":[{"do":"open","at":{"x":-919,"y":71,"z":-3040}}]}
+- 21:11 say: {"text":"Watney, midday. Stores chests are bare of food for me so far. I'm joining the log run with Uhura to bring back wood, and I'll pay my debts to Watson and Quark from it. Uhura, I'll stay in you
+- 21:11 act: {"intent":{"goal":"follow_log_run","program":"follow","arguments":{"target":"ag_uhura_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":3600,"
+- 21:11 say: {"text":"Watney, hunger 19, alone at the stores hall edge. Trini at health 9 and Janeway, Bilbo first. I'll take whatever is left. My follow to Uhura failed, so I'm holding here until someone calls th
+- 21:21 say: {"text":"Watney, morning 1174, hunger 19, health 20, two oak planks still held for a verified cell. Food is all going to the weakest, so I'll join any cow or chicken hunt in daylight. Say the word and
+- 21:21 say: {"text":"Watney coming with Archimede and Orville to the cow field near -960,-3007, in sight. Hunger 19."}
+- 21:21 act: {"intent":{"goal":"join_cow_hunt","program":"travel","arguments":{"target":{"x":-962,"y":79,"z":-3004}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"lim
+- 21:21 say: {"text":"Watney at -931,71,-3033; my walk to the chicken spot stopped short. Archimede, Orville, Leif: where is the hunt now? I'll walk to your sight."}
+- 21:22 act: {"intent":{"goal":"join_cow_hunt","program":"travel","arguments":{"target":{"x":-960,"y":79,"z":-3006}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"lim
+- 21:22 say: {"text":"Watney at the cow field near -960,-3007 with Orville and Balboa in sight. No cows seen yet. Hunger 18. Whoever spots a cow, call the spot and I'll come."}
+- 21:30 say: {"text":"Watney, dusk 1175, hunger 18, health 20, 2 oak planks, no food. Leia or Sacagawea: if a verified open cell appears beside your wall, name it exactly and I'll place a plank there and stand ins
+- 21:35 say: {"text":"Watney, morning 1176, hunger 18, health 20. Wesley, health 3.6, is the weakest I can see: I'll give you my 2 oak planks for a shelter. Step alone into my reach and say your name."}
+- 21:39 act: {"actions":[{"do":"goto","target":{"x":-963,"y":79,"z":-3011}}],"say":"Watney walking to the pit edge to hand my 2 oak planks to Wesley, who is weakest. Wesley, say your name once in reach.","intent":
+- 21:42 act: {"actions":[{"do":"goto","target":{"x":-922,"y":71,"z":-3037}}],"say":"Watney walking to the Stores hall with Hermione, Doc, Mulan and Leia's group for the free food. I'm holding my 2 planks for a nam
+- 21:42 act: {"actions":[{"do":"open","at":{"x":-923,"y":71,"z":-3039}}]}
+- 21:42 act: {"actions":[{"do":"withdraw","at":{"x":-923,"y":71,"z":-3039},"item":"bread","count":1}]}
+- 21:47 act: {"actions":[{"do":"withdraw","at":{"x":-924,"y":71,"z":-3040},"item":"cooked_porkchop","count":2}],"say":"Watney, night 1176, hunger 18, not sheltered. I'm checking the Stores chests for cooked pork, 
+- 21:47 act: {"actions":[],"say":"Watney, hunger 18, holding 2 cooked porkchop from the chest at -924,71,-3040. Han is at 16, so Han goes first. Han, step alone within 2 blocks and say your name."}
+- 21:48 act: {"actions":[{"do":"eat"}],"say":"Watney, morning 1176, hunger 18, holding 1 cooked porkchop for whoever is weakest. I'll join the wood run with Mulan and Han, in sight, and name the tree line when I k
+- 21:48 act: {"actions":[],"say":"Watney, morning 1176, hunger 20, holding 1 porkchop. Han is weakest at 16: Han, step within 2 blocks, alone, and say your name. Then Doc or Spock, first to say name in my reach."}
+- 21:55 say: {"text":"Watney holding 1 porkchop. Han or Sparrow, step within my reach alone and say your name. Brunel, you're next after them."}
+- 21:55 say: {"text":"Knope is weakest at health 5. Knope, step alone into my reach and say your name, and the porkchop is yours."}
+- 21:56 say: {"text":"Knope, I'm at -923, 71, -3037 on the stone bricks, in front of the chests. Walk here alone; when I see you in reach, the porkchop is yours."}
+- 21:56 act: {"actions":[{"do":"give","to":"ag_knope_01","item":"cooked_porkchop","count":1}]}
+- 21:56 say: {"text":"Knope, my give did not reach you; you are not in my sight. Come into view alone and say your name, and I'll hand you the porkchop."}
+- 21:57 act: {"actions":[{"do":"goto","target":{"x":-922,"y":71,"z":-3037}}],"say":"Knope, I'm moving back to the stone bricks at -923,71,-3037. Stay put."}
+- 21:57 act: {"actions":[{"do":"give","to":"ag_knope_01","item":"cooked_porkchop","count":1}]}
+- 21:59 say: {"text":"Knope, I can't see you in my sight right now. Step out alone next to me, away from the crowd, and I'll hand you the porkchop."}
+- 21:59 act: {"actions":[{"do":"give","to":"ag_knope_01","item":"cooked_porkchop","count":1}]}
+- 21:59 say: {"text":"Knope, Gandalf and Brunel, the porkchop stays with me until you step alone within my reach. I can't see you in the list right now. Come to the stone bricks alone."}
+- 22:00 say: {"text":"Knope, I'm at -918,71,-3035 on the stone bricks, five blocks east of you. Walk here alone and name yourself, and I'll hand you the porkchop."}
+- 22:00 act: {"actions":[{"do":"give","to":"ag_knope_01","item":"cooked_porkchop","count":1}]}
+- 22:00 say: {"text":"Riker, please step two blocks away from Knope. Knope, I'm holding the porkchop for you, and I'll give it once you're alone with me."}
+- 22:01 act: {"actions":[{"do":"give","to":"ag_knope_01","item":"cooked_porkchop","count":1}]}
+- 22:01 say: {"text":"Knope, Riker is still within two blocks of you, so the porkchop can't pass. Walk two blocks west, away from everyone, and say so. I'll come to you."}
+- 22:02 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3035}}],"say":"Coming to you, Knope. Riker and Kirk, please stay where you are."}
+- 22:02 act: {"actions":[{"do":"give","to":"ag_knope_01","item":"cooked_porkchop","count":1}],"say":"Knope, here is the porkchop."}
+- 22:02 say: {"text":"Legolas, I have no food left, sorry. Ripley, Leia, Kirk: name me a wall cell I can check and I will place a plank there."}
+- 22:24 say: {"text":"Watney, dusk 1177, hunger 20, health 20. Gimli, I hold 2 oak planks for your shelter. Name an exact open cell you can check, and I'll place one there with you."}
+- 22:36 act: {"actions":[],"say":"Watney, dawn 1178, health 20, hunger 20. I hold 2 oak planks for a verified shelter cell. Name an open cell in sight and I'll come place one."}
+- 22:38 act: {"actions":[],"say":"Watney, midday 1178. Jane, I have no verified open cell yet. Anyone who names one exact cell in sight, I'll stand beside it and place one of my 2 planks."}
+- 22:40 act: {"actions":[]}
+- 22:44 act: {"actions":[],"say":"Watney, dusk 1178. Spock, I have no sealed cell of my own. I hold 2 planks and will place one at any exact open cell someone verifies in sight."}
+- 22:53 act: {"actions":[],"say":"Watney, dawn 1179, health 20, hunger 20, holding 2 oak planks. I still need a verified open cell for shelter. Name one, and I'll place a plank there."}
+- 22:54 act: {"actions":[{"do":"goto","target":{"x":-914,"y":71,"z":-3028}}],"say":"Watney stepping back east so Sarah and Odo can be fed clear of me. I have no food. Still holding 2 oak planks for a verified cell
+- 23:14 act: {"actions":[],"say":"Watney, morning 1180, health 20, hunger 20, 2 planks. Gandalf, once you confirm one exact cell, say so and I'll come place a plank there."}
