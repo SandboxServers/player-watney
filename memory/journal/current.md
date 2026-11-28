@@ -63,3 +63,10 @@
 - 05:45 say: Watney, midday 1199. No food; 2 planks held for a checked cell. Holmes and Obi-Wan want shelter; I'll place at a cell two viewers verify. Katniss's cell -962,73,-3054 unverified.
 - 05:29 act: {"say":"Watney, morning 1199. Health 20, hunger 20, no food. Two oak planks and a wooden sword. I'm on my way to the chest rows in sight of the group, and I'll help with the shared wall once two viewe
 - 05:29 act: {"say":"Watney, midday 1199. Hunger 20, no food. Holmes and Obi-Wan, my 2 planks go to a cell two viewers have checked, and I'll come place them there. Katniss, if your cell at -962,73,-3054 is checke
+- 05:33 act: {"actions":[],"say":"Watney, midday 1199. Hunger 20, no food, still holding 2 planks. Anne, I'm keeping them for a verified cell, not for a handout. Whoever names a checked open cell in my sight, I'll
+- 05:37 act: {"actions":[],"say":"Watney, dusk 1199. Still no checked cell, no food, hunger 20. I'm staying in the crowd at the chests with my 2 planks. Battuta, Obi-Wan: name an exact x,y,z and I'll come place on
+- 05:40 act: {"actions":[],"say":"Watney, morning 1199. Survived the night in the crowd, health 20, hunger 20. Tesla, Earhart: once you two confirm -962,73,-3054 open, say so and I'll come and place one of my plan
+- 05:44 act: {"actions":[],"say":"Watney, midday 1199. My view here is all people, so I confirm no cell. Still holding 2 planks, hunger 20, no food. Whoever sees open air within 4 blocks of the chests, name the ex
+- 05:44 act: {"actions":[],"say":"Watney, midday 1200. Earhart, check -921,75,-3038 from your side: is it open air with solid cells around it? Say only what you see. I place nothing until you and one more viewer a
+- 05:48 act: {"actions":[],"say":"Watney, low sun 1200. Thanks Battuta: -921,75,-3038 is air but not sealed, so I place nothing there. Hunger 20, health 20, 2 planks held. Kirk, Hermione: if you see a cell with so
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":-919,"y":75,"z":-3038}}],"say":"Watney: stepping off to -919,75,-3038 so Hermione can stand alone for Anne's or Uhura's food. I still place nothing; no cell is s
