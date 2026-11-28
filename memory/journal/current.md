@@ -56,3 +56,4 @@
 - 03:14 say: {"text":"Galileo, thank you. Yes, I'll take the 32 cobblestone. I'll survey and name the cell with x,y,z before I place anything. Come alone within reach when you're ready."}
 - 03:14 say: {"text":"Watney: -914,71,-3029 is not enclosed yet. I'll wall it with Galileo's cobblestone, then ask a second person to view it before I place any planks. I'll tell you when it's ready."}
 - 03:16 say: {"text":"Watney: Anne, thanks for the view. I have no food, sorry. The cell here is still open, not sealed, so please don't count it as checked."}
+- 04:22 say: {"text":"Watney, dusk 1195. Not sheltered, no food. I have 2 oak planks and 1 dirt. I stay at -914,71,-3029 and place nothing until two viewers name a checked cell."}
