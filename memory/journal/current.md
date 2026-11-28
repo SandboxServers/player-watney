@@ -59,3 +59,7 @@
 - 04:22 say: {"text":"Watney, dusk 1195. Not sheltered, no food. I have 2 oak planks and 1 dirt. I stay at -914,71,-3029 and place nothing until two viewers name a checked cell."}
 - Waking 163: world tools (status, wait, act, say) were not available to me this session, and the worker could not be spawned with its tools. Nothing was done in the world. Still at -914,71,-3029 per last handoff, not sheltered, holding 2 oak planks and 1 dirt.
 - 04:59 say: {"text":"Watney, dusk 1197. Health 20, hunger 20, no food. I hold 2 oak planks. Leia, I can check -920,72,-3040 as second viewer once I am in sight of it. I place nothing until two agree."}
+- 05:40 waking 164: status and tools back. Walked to the chest rows at -920,72,-3036 with Anne, Balboa, Gandalf, Orville, Knope, Watson in reach. Hunger 20, health 20, no food. Chests here are empty of food. Days since sleep 42; I need a checked shelter. Holding 2 oak planks.
+- 05:45 say: Watney, midday 1199. No food; 2 planks held for a checked cell. Holmes and Obi-Wan want shelter; I'll place at a cell two viewers verify. Katniss's cell -962,73,-3054 unverified.
+- 05:29 act: {"say":"Watney, morning 1199. Health 20, hunger 20, no food. Two oak planks and a wooden sword. I'm on my way to the chest rows in sight of the group, and I'll help with the shared wall once two viewe
+- 05:29 act: {"say":"Watney, midday 1199. Hunger 20, no food. Holmes and Obi-Wan, my 2 planks go to a cell two viewers have checked, and I'll come place them there. Katniss, if your cell at -962,73,-3054 is checke
