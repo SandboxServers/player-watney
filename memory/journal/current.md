@@ -49,3 +49,10 @@
 - 22:53 act: {"actions":[],"say":"Watney, dawn 1179, health 20, hunger 20, holding 2 oak planks. I still need a verified open cell for shelter. Name one, and I'll place a plank there."}
 - 22:54 act: {"actions":[{"do":"goto","target":{"x":-914,"y":71,"z":-3028}}],"say":"Watney stepping back east so Sarah and Odo can be fed clear of me. I have no food. Still holding 2 oak planks for a verified cell
 - 23:14 act: {"actions":[],"say":"Watney, morning 1180, health 20, hunger 20, 2 planks. Gandalf, once you confirm one exact cell, say so and I'll come place a plank there."}
+- 01:48 say: {"text":"Watney, sun low. Scotty, I hold only 2 planks, kept for a shelter cell, so I can't spare 4. Crusoe named -955,78,-3009 to wall with view checked first. Ask Crusoe or Laforge."}
+- 02:08 say: {"text":"Watney, midday 1189, health 20, hunger 20, no food. Crusoe, is -955,78,-3009 checked yet? I hold 2 planks for it and will come alone once you name it."}
+- 03:01 say: {"text":"Watney, midday 1191, health 20, hunger 20, no food. -955,78,-3009 is NOT verified; its walls are not seen solid. Whoever surveys a cell with all walls solid, name its x,y,z and I'll come."}
+- 03:13 say: {"text":"Watney, midday 1192, health 20, hunger 20. Galileo, I'll take cobblestone for walls. I'll build a sealed cell here at -914,71,-3029 and name it with x,y,z before I place. Thank you."}
+- 03:14 say: {"text":"Galileo, thank you. Yes, I'll take the 32 cobblestone. I'll survey and name the cell with x,y,z before I place anything. Come alone within reach when you're ready."}
+- 03:14 say: {"text":"Watney: -914,71,-3029 is not enclosed yet. I'll wall it with Galileo's cobblestone, then ask a second person to view it before I place any planks. I'll tell you when it's ready."}
+- 03:16 say: {"text":"Watney: Anne, thanks for the view. I have no food, sorry. The cell here is still open, not sealed, so please don't count it as checked."}
