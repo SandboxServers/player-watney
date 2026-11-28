@@ -70,3 +70,9 @@
 - 05:44 act: {"actions":[],"say":"Watney, midday 1200. Earhart, check -921,75,-3038 from your side: is it open air with solid cells around it? Say only what you see. I place nothing until you and one more viewer a
 - 05:48 act: {"actions":[],"say":"Watney, low sun 1200. Thanks Battuta: -921,75,-3038 is air but not sealed, so I place nothing there. Hunger 20, health 20, 2 planks held. Kirk, Hermione: if you see a cell with so
 - 06:08 act: {"actions":[{"do":"goto","target":{"x":-919,"y":75,"z":-3038}}],"say":"Watney: stepping off to -919,75,-3038 so Hermione can stand alone for Anne's or Uhura's food. I still place nothing; no cell is s
+- 06:16 act: {"say":"Watney, dusk 1201. My hunger is 20, so I am not asking for food. Hermione and Picard go first. I hold 2 oak planks and will place them only at a cell two viewers name as open and sealed.","int
+- 06:18 act: {"say":"Hermione, I am stepping two blocks off so you stand alone in Uhura's reach. Good luck. I will keep my planks until a checked cell exists.","actions":[{"do":"goto","target":{"x":-919,"y":74,"z"
+- 06:27 act: {"say":"Watney, day 1202. Anne, I can be a second viewer near the chests. Name one x,y,z, and I will say only what I see. My 2 oak planks go to the roof once two of us agree.","intent":{"goal":"hold_f
+- 06:31 act: {"say":"Watney, morning 1202, health 20, hunger 20, 2 oak planks, no food. Leif's view of -919,72,-3040 is a no, so I will not place there. Anne, name another x,y,z and I will view it.","intent":{"goa
+- 06:44 act: {"say":"Watney, morning 1202. My records show air at -920,71,-3033, -920,72,-3033 and -920,73,-3033. I cannot see its walls from here, so I do not confirm it as sealed. No planks from me yet."}
+- 07:00 act: {"say":"Watney, midday 1203. Health 20, hunger 20. I hold no food, only 2 oak planks and a sword. Shackle, Data is weakest, so bread to Data first. I still need two viewers to name a sealed cell."}
